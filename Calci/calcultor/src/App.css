@@ -1,0 +1,54 @@
+.a012 input{
+  box-sizing: border-box;
+  background-color: yellowgreen;
+  height: 70px;
+  width: 90px;
+  cursor: pointer;
+  font-size: 50px;
+  margin-top: 80px;
+
+}
+.a022 input {
+  box-sizing: border-box;
+  background-color: yellowgreen;
+  height: 70px;
+  width: 90px;
+  cursor: pointer;
+  font-size: 50px;
+  margin-top: 80px;
+}
+.container{
+
+  justify-content: center;
+  text-align: center;
+  background-color: #5c5c5c;
+  margin: 50px 50px 50px 50px;
+}
+.a0{
+  margin-top: 40px;
+  height: 80px;
+  width: 700px;
+  cursor: 40px;
+  font-size: 60px;
+}
+.a012{
+  display: flex;
+  gap:340px;
+  margin-left: 80px;
+}
+.a022{
+  display: flex;
+  gap: 330px;
+  margin-left: 80px;
+}
+.a022 button {
+
+  box-sizing: border-box;
+  background-color: rgb(7, 145, 142);
+  height: 130px;
+  width: 140px;
+  cursor: pointer;
+  font-size: 50px;
+  margin-top: 80px;
+
+}

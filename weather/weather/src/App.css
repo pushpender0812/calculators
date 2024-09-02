@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+  border: 6px solid #a3d6dcca;
+  border-color: rgb(224, 248, 250);
+  margin: 200px 200px 200px 700px;
+  background-image: linear-gradient(rgb(116, 179, 226), rgba(255, 255, 255, 0.656));
+  max-height: 500px;
+  width: 500px;
+  border-radius: 20px;
+  
+
+}
+.App input{
+  width:260px ;
+  height: 40px;
+  border-radius: 30px;
+  font-size: x-large;
+}
+.input img {
+  margin-top: 10px;
+  height: 150px;
+  background-image: linear-gradient(rgba(255, 255, 0, 0.311));
+}

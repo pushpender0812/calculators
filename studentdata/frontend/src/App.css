@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  animation: logo-spin infinite 20s linear;
+}
+.go{
+  border: 2px solid steelblue;
+  height: 340px;
+  width: 450px;
+}
+.student{
+  display: flex;
+  margin-left: 120px;
+}
+.student input{
+  font-size: 20px;
+  height: 30px;
+  width: 104px;
+  margin-top: 10px;
+}
+

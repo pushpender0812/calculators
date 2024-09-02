@@ -1,0 +1,36 @@
+body{
+       align-items: center;
+       justify-content: center;
+       background-color: #4c4c4c;
+}
+
+.App{
+  display:block;
+
+  text-align: center;
+  margin: 170px  ;
+  border-style:ridge;
+  border-radius: 8px;
+  border-color:  #41c150  #962c0b; 
+  box-sizing: content-box;
+  mask-border-slice: 30px;
+  width: 450px;
+  height: 350px;
+  margin-left: 450px;
+  box-shadow:tan;
+  background:  #f5f3f3;
+    
+}
+.height-weight button{
+  width: 340px;
+  height: 30px;
+  gap: 20px;
+  
+}
+.relod{
+  margin-top: 5px;
+  background: beige;
+}
+.submit{
+  background-color:slateblue;
+}
